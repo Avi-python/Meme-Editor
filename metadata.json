@@ -1,0 +1,5 @@
+{
+  "name": "Meme Explorer",
+  "description": "A web application to browse and discover a vast collection of popular memes from the internet in a beautiful, responsive grid layout.",
+  "requestFramePermissions": []
+}
